@@ -1,6 +1,23 @@
 /* Responsive CSS - Nitesh */
 
 /* CSS for Extra Large (xl) screen */
+@media only screen and (max-width: 1920px) {
+	/* Write your code here */
+	
+}
+
+/* CSS for Extra Large (xl) screen */
+@media only screen and (max-width: 1680px) {
+	/* Write your code here */
+	
+}
+
+/* CSS for Extra Large (xl) screen */
+@media only screen and (max-width: 1600px) {
+	/* Write your code here */
+	
+}
+/* CSS for Extra Large (xl) screen */
 @media only screen and (max-width: 1440px) {
 	/* Write your code here */
 	
@@ -95,7 +112,7 @@
 }
 
 /* CSS for Small (sm) & Landscap Mobile screen */
-@media only screen and (max-width: 568px){
+@media only screen and (max-width: 568px) and (min-width:501px){
 	/* Write your code here */
 	
 }
